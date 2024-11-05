@@ -1,0 +1,20 @@
+.impar{
+    color: black;
+    background-color: rgb(255, 112, 136);
+    font-family: verdana, sans-serif;
+}
+
+#number-two{
+    color: blue;
+    font-size: 36px;
+}
+
+.resize{
+    font-size: 24px;
+}
+
+#number-four{
+    background-color: rgb(116, 250, 116);
+    font-size: 24px;
+    font-weight: bold;
+}
