@@ -32,6 +32,9 @@ img {
 .infimg{
   display: flex;
   gap: 50px;
-  flex-shrink: 1;
-  max-width: 1000px;
+  justify-content: center;
+}
+
+.text{
+  max-width: 200px;
 }
